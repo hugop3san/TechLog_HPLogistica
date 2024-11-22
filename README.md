@@ -14,9 +14,10 @@ com interações dinâmicas entre cliente final, entregador e administração. I
 ## 🎯 Personas
 
 ### 1️⃣ **Cliente Final**
-- Recebe notificações por e-mail com previsão de entrega.  
+- Recebe notificações por e-mail e whatsapp com previsão de entrega.  
 - Pode confirmar ou reagendar a entrega.  
 - Garante flexibilidade e conveniência no recebimento.
+
 
 ### 2️⃣ **Entregador**
 - Recebe atualizações em tempo real sobre a entrega.  
